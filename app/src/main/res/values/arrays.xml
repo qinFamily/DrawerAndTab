@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>标签页一</item>
+        <item>标签页二</item>
+        <item>标签页三</item>
+        <item>标签页四</item>
+        <item>标签页五</item>
+        <item>标签页六</item>
+        <item>标签页七</item>
+        <item>标签页八</item>
+        <item>标签页九</item>
+        <item>标签页十</item>
+    </string-array>
+</resources>
